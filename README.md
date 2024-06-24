@@ -4,10 +4,10 @@ Hackathon para desenvolvimento de soluções inovadoras para os problemas atuais
 
     Nome do grupo: InovaTech
       Integrantes: Renan de Lima Andrade      email: renan.pyd@gmail.com
-                   Elayne Pinheiro            email:
-                   Diana Osorio               email:
+                   Elayne Pinheiro            email: elayne.moura.pinheiro07@aluno.ifce.edu.br
+                   Diana Osorio               email: dianaosorio468@gmail.com 
                    Carlos Henrique C. Souza   email: carlos.henrique0497@gmail.com 
-                   Andreia Souza              email:
+                   Andreia Souza              email: andreiasouzasantana2@gmail.com
 
            Qual foi nossa escolha: Paciente.
     Qual problema estamos focando: A falta de acompanhamento em todo o processo do paciente. 
